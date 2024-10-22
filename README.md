@@ -1,4 +1,4 @@
-# Exp-13-Implement-Message-Authentication-Code-MAC
+# Ex-13-Implement-Message-Authentication-Code-MAC
 ## AIM:
 To implement the Message Authentication Code (MAC) algorithm in C for ensuring the integrity and authenticity of a message.
 
